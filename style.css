@@ -694,3 +694,20 @@ li {
   transition: all 0.3s ease;
 } 
 /*----------------------------------------------------chuyen dong muc tuong ung slider------------------*/
+.slider-content-left-bottom li.active {
+
+  border-top:4px solid #04873d;
+  
+  font-weight: bold;
+  
+}
+  
+
+  
+.slider-content-left-bottom li {
+
+  border-top:4px solid#fff;
+  
+  border-bottom:4px solid#fff;
+  
+}
