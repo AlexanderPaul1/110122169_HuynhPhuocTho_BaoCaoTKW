@@ -711,3 +711,23 @@ li {
   border-bottom:4px solid#fff;
   
 }
+/*-----------------------------------------------------------*/
+.slider-content-left-bottom li.active {
+
+  border-top: 4px solid#e6da02;
+  font-weight: bold;
+
+}
+
+.slider-content-left-bottom li {
+
+  border-top: 4px solid #fff;
+
+  border-bottom: 4px solid#fff;
+
+}
+/*-----------------------------------------------------*/
+.baner-one {
+  margin-top: 30px;
+  
+}
